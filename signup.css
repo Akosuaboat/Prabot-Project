@@ -1,0 +1,317 @@
+.signup-container {
+  min-height: 100vh;
+}
+.signup-signup {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signup-rectangle6 {
+  top: 469px;
+  left: 476px;
+  width: 482px;
+  height: 67px;
+  position: absolute;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 40px;
+}
+.signup-text {
+  top: 56px;
+  left: 643px;
+  color: rgba(6, 40, 61, 1);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-rectangle7 {
+  top: 595px;
+  left: 476px;
+  width: 482px;
+  height: 67px;
+  position: absolute;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 40px;
+}
+.signup-rectangle8 {
+  top: 835px;
+  left: 537px;
+  width: 338px;
+  height: 67px;
+  position: absolute;
+  border-radius: 40px;
+}
+.signup-vehiclere2 {
+  top: 782px;
+  left: 1049.402099609375px;
+  width: 555px;
+  height: 109px;
+  position: absolute;
+}
+.signup-vehiclere3 {
+  top: 576px;
+  left: 1149.240234375px;
+  width: 461px;
+  height: 99px;
+  position: absolute;
+}
+.signup-text02 {
+  top: 109px;
+  left: 628px;
+  color: rgba(6, 40, 61, 1);
+  width: 330px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text04 {
+  top: 431px;
+  left: 476px;
+  color: rgba(6, 40, 61, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text06 {
+  top: 561px;
+  left: 476px;
+  color: rgba(6, 40, 61, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text08 {
+  top: 931px;
+  left: 488px;
+  color: rgba(6, 40, 61, 1);
+  width: 390px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text09 {
+  font-weight: 700;
+}
+.signup-text11 {
+  top: 850px;
+  left: 653px;
+  color: rgba(255, 255, 255, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text13 {
+  top: 493px;
+  left: 503px;
+  color: rgba(6, 40, 61, 1);
+  width: 224px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text15 {
+  top: 614px;
+  left: 545px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-rectangle9 {
+  top: 206px;
+  left: 476px;
+  width: 482px;
+  height: 67px;
+  position: absolute;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 40px;
+}
+.signup-rectangle10 {
+  top: 341px;
+  left: 476px;
+  width: 482px;
+  height: 67px;
+  position: absolute;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 40px;
+}
+.signup-rectangle11 {
+  top: 715px;
+  left: 476px;
+  width: 482px;
+  height: 67px;
+  position: absolute;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 40px;
+}
+.signup-text17 {
+  top: 174px;
+  left: 502px;
+  color: rgba(6, 40, 61, 1);
+  width: 141px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text19 {
+  top: 302px;
+  left: 476px;
+  color: rgba(6, 40, 61, 1);
+  width: 155px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text21 {
+  top: 684px;
+  left: 476px;
+  color: rgba(6, 40, 61, 1);
+  width: 207px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text23 {
+  top: 231px;
+  left: 527px;
+  color: rgba(6, 40, 61, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text25 {
+  top: 367px;
+  left: 513px;
+  color: rgba(0, 0, 0, 1);
+  width: 236px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text27 {
+  top: 738px;
+  left: 545px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,153 @@
+.landing-page-container {
+  min-height: 100vh;
+}
+.landing-page-landing-page {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-pngtreetechnologylogotemplatepngimage3669874remove {
+  top: 44px;
+  left: 203.532470703125px;
+  width: 1004px;
+  height: 928px;
+  position: absolute;
+}
+.landing-page-rectangle5 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+}
+.landing-page-rectangle1 {
+  top: 700px;
+  left: 103px;
+  width: 435px;
+  height: 83px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 30px;
+}
+.landing-page-vector {
+  top: 719px;
+  left: 460px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+}
+.landing-page-rectangle2 {
+  top: 700px;
+  left: 103px;
+  width: 206px;
+  height: 83px;
+  position: absolute;
+  border-radius: 30px;
+}
+.landing-page-text {
+  top: 730px;
+  left: 132px;
+  color: rgba(255, 255, 255, 1);
+  width: 189px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-text02 {
+  top: 58px;
+  left: 1068px;
+  color: rgba(255, 255, 255, 1);
+  width: 79px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-text04 {
+  top: 57px;
+  left: 1241px;
+  color: rgba(255, 255, 255, 1);
+  width: 83px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-vehiclere1 {
+  top: 710px;
+  left: 720px;
+  width: 786px;
+  height: 116px;
+  position: absolute;
+}
+.landing-page-vehiclere2 {
+  top: 566px;
+  left: 921.402099609375px;
+  width: 555px;
+  height: 109px;
+  position: absolute;
+}
+.landing-page-text06 {
+  top: 261px;
+  left: 96px;
+  color: rgba(255, 255, 255, 1);
+  width: 733px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-text08 {
+  top: 381px;
+  left: 116px;
+  color: rgba(255, 255, 255, 1);
+  width: 687px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media(max-width: 479px) {
+  .landing-page-rectangle5 {
+    left: -187px;
+    bottom: -1px;
+  }
+}
